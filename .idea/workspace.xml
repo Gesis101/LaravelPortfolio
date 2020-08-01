@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95aef2f3-2583-46eb-9fa7-7c9d9d1d0829" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/practiceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/LaravelPortfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/Homestead.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/Homestead.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/137422bd8cff4d4db3adf7838cd04975d673efd7.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/137422bd8cff4d4db3adf7838cd04975d673efd7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3597063fb1086110dc3bad9195c4ce7cd536b9b2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3597063fb1086110dc3bad9195c4ce7cd536b9b2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3aa8213aea72e9a53e1067cabbc29f22f1a6b83c.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3aa8213aea72e9a53e1067cabbc29f22f1a6b83c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/5bedc7f487a4b2004b564947a9b9b49af5439b96.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/5bedc7f487a4b2004b564947a9b9b49af5439b96.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +37,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LaravelPortfolio" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -137,7 +144,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1d5KAqsrjuunuRqu7Y5ffu6ZEOk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -156,6 +165,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -193,18 +203,30 @@
       <workItem from="1596288431427" duration="1709000" />
       <workItem from="1596291058275" duration="559000" />
       <workItem from="1596293079894" duration="2980000" />
-      <workItem from="1596310508168" duration="2787000" />
+      <workItem from="1596310508168" duration="3797000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/https:/github.com/Gesis101/LaravelPortfolio.git" />
+      <path value="$PROJECT_DIR$/../LaravelPortfolio/https:/github.com/Gesis101/LaravelPortfolio.git" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="240" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592527123522">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="240" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1592527123522" />
+    <state x="278" y="326" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596321390580">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="278" y="326" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1361/-1920.-13.1920.1177@0.23.2560.1361" timestamp="1596321390580" />
     <state width="918" height="165" key="GridCell.Tab.0.bottom" timestamp="1592495315478">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
@@ -225,6 +247,10 @@
     </state>
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.1920.1121@0.23.1920.1121" timestamp="1592364994212" />
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.2560.1361@0.23.2560.1361" timestamp="1592495315477" />
+    <state x="99" y="222" key="SettingsEditor" timestamp="1596321378962">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="99" y="222" key="SettingsEditor/0.23.2560.1361/-1920.-13.1920.1177@0.23.2560.1361" timestamp="1596321378962" />
     <state x="973" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1596310715119">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
