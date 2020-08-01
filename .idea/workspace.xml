@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95aef2f3-2583-46eb-9fa7-7c9d9d1d0829" name="Default Changelist" comment="" />
+    <list default="true" id="95aef2f3-2583-46eb-9fa7-7c9d9d1d0829" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,12 +137,14 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1d5KAqsrjuunuRqu7Y5ffu6ZEOk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mongo&#10;mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -186,7 +193,7 @@
       <workItem from="1596288431427" duration="1709000" />
       <workItem from="1596291058275" duration="559000" />
       <workItem from="1596293079894" duration="2980000" />
-      <workItem from="1596310508168" duration="2325000" />
+      <workItem from="1596310508168" duration="2787000" />
     </task>
     <servers />
   </component>
