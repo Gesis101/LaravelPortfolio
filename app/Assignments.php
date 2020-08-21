@@ -10,5 +10,6 @@ class Assignments extends Model
     {
         $this->completed = true;
         $this->save();
+        $_erew = wer;
     }
 }

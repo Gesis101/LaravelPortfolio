@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95aef2f3-2583-46eb-9fa7-7c9d9d1d0829" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/practiceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/LaravelPortfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/Homestead.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/Homestead.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/137422bd8cff4d4db3adf7838cd04975d673efd7.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/137422bd8cff4d4db3adf7838cd04975d673efd7.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3597063fb1086110dc3bad9195c4ce7cd536b9b2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3597063fb1086110dc3bad9195c4ce7cd536b9b2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3aa8213aea72e9a53e1067cabbc29f22f1a6b83c.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/3aa8213aea72e9a53e1067cabbc29f22f1a6b83c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/5bedc7f487a4b2004b564947a9b9b49af5439b96.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LaravelPortfolio/storage/framework/views/5bedc7f487a4b2004b564947a9b9b49af5439b96.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/100x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/IMG_1069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/homebkg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/without background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigator.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/action_set_name" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/action_set_name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/synced_folders" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/synced_folders" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/vagrant_cwd" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/vagrant_cwd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Assignments.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Assignments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,26 +30,13 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
+    <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LaravelPortfolio" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="local" pattern="" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -149,25 +148,33 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mongo&#10;mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views" />
     </key>
@@ -178,6 +185,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -204,21 +212,31 @@
       <workItem from="1596291058275" duration="559000" />
       <workItem from="1596293079894" duration="2980000" />
       <workItem from="1596310508168" duration="3797000" />
+      <workItem from="1596575557895" duration="26213000" />
+      <workItem from="1596762814413" duration="10377000" />
+      <workItem from="1597520493642" duration="506000" />
+      <workItem from="1597545069778" duration="205000" />
+      <workItem from="1597965057463" duration="1502000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/https:/github.com/Gesis101/LaravelPortfolio.git" />
-      <path value="$PROJECT_DIR$/../LaravelPortfolio/https:/github.com/Gesis101/LaravelPortfolio.git" />
+      <path value="$PROJECT_DIR$/https:/github.com/Gesis101/LaravelPortfolio.git" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="835" y="393" width="564" height="530" key="#ESLint" timestamp="1596756741703">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="548" y="287" width="564" height="530" key="#ESLint/0.23.1680.971@0.23.1680.971" timestamp="1596578040035" />
+    <state x="835" y="393" key="#ESLint/0.23.2560.1361@0.23.2560.1361" timestamp="1596756741703" />
     <state x="240" y="434" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592527123522">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
@@ -227,6 +245,14 @@
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="278" y="326" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1361/-1920.-13.1920.1177@0.23.2560.1361" timestamp="1596321390580" />
+    <state x="586" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596576312675">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="586" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.971@0.23.1680.971" timestamp="1596576312675" />
+    <state x="226" y="368" width="672" height="645" key="EditFileWatcherDialog" timestamp="1596758957496">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state x="226" y="368" width="672" height="645" key="EditFileWatcherDialog/0.23.2560.1361@0.23.2560.1361" timestamp="1596758957496" />
     <state width="918" height="165" key="GridCell.Tab.0.bottom" timestamp="1592495315478">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
@@ -247,10 +273,11 @@
     </state>
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.1920.1121@0.23.1920.1121" timestamp="1592364994212" />
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.2560.1361@0.23.2560.1361" timestamp="1592495315477" />
-    <state x="99" y="222" key="SettingsEditor" timestamp="1596321378962">
+    <state x="99" y="222" key="SettingsEditor" timestamp="1596758959031">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="99" y="222" key="SettingsEditor/0.23.2560.1361/-1920.-13.1920.1177@0.23.2560.1361" timestamp="1596321378962" />
+    <state x="99" y="222" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1596758959031" />
     <state x="973" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1596310715119">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
@@ -261,10 +288,27 @@
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
     <state x="945" y="272" key="run.anything.popup/0.23.1920.1121@0.23.1920.1121" timestamp="1596114630088" />
-    <state x="98" y="274" width="670" height="676" key="search.everywhere.popup" timestamp="1596114633123">
-      <screen x="0" y="23" width="1920" height="1121" />
+    <state x="362" y="448" width="494" height="372" key="scopes" timestamp="1596758477783">
+      <screen x="0" y="23" width="2560" height="1361" />
     </state>
+    <state x="362" y="448" width="494" height="372" key="scopes/0.23.2560.1361@0.23.2560.1361" timestamp="1596758477783" />
+    <state x="86" y="240" width="670" height="586" key="search.everywhere.popup" timestamp="1596577340699">
+      <screen x="0" y="23" width="1680" height="971" />
+    </state>
+    <state x="86" y="240" width="670" height="586" key="search.everywhere.popup/0.23.1680.971@0.23.1680.971" timestamp="1596577340699" />
     <state x="98" y="274" width="670" height="676" key="search.everywhere.popup/0.23.1920.1121@0.23.1920.1121" timestamp="1596114633123" />
     <state x="131" y="328" width="894" height="821" key="search.everywhere.popup/0.23.2560.1361@0.23.2560.1361" timestamp="1592527020055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Navigator.vue</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
