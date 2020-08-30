@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95aef2f3-2583-46eb-9fa7-7c9d9d1d0829" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/100x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/IMG_1069.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/homebkg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/without background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigator.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/action_set_name" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/action_set_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/synced_folders" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/synced_folders" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/vagrant_cwd" beforeDir="false" afterPath="$PROJECT_DIR$/.vagrant/machines/practiceproject/virtualbox/vagrant_cwd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Assignments.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Assignments.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigator.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigator.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +151,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -216,7 +198,12 @@
       <workItem from="1596762814413" duration="10377000" />
       <workItem from="1597520493642" duration="506000" />
       <workItem from="1597545069778" duration="205000" />
-      <workItem from="1597965057463" duration="1502000" />
+      <workItem from="1597965057463" duration="2242000" />
+      <workItem from="1598139203448" duration="272000" />
+      <workItem from="1598139479206" duration="119000" />
+      <workItem from="1598194795782" duration="641000" />
+      <workItem from="1598291376716" duration="243000" />
+      <workItem from="1598312255786" duration="6935000" />
     </task>
     <servers />
   </component>
@@ -273,9 +260,10 @@
     </state>
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.1920.1121@0.23.1920.1121" timestamp="1592364994212" />
     <state width="918" height="165" key="GridCell.Tab.0.right/0.23.2560.1361@0.23.2560.1361" timestamp="1592495315477" />
-    <state x="99" y="222" key="SettingsEditor" timestamp="1596758959031">
-      <screen x="0" y="23" width="2560" height="1361" />
+    <state x="582" y="192" key="SettingsEditor" timestamp="1598312480541">
+      <screen x="0" y="23" width="1680" height="971" />
     </state>
+    <state x="582" y="192" key="SettingsEditor/0.23.1680.971@0.23.1680.971" timestamp="1598312480541" />
     <state x="99" y="222" key="SettingsEditor/0.23.2560.1361/-1920.-13.1920.1177@0.23.2560.1361" timestamp="1596321378962" />
     <state x="99" y="222" key="SettingsEditor/0.23.2560.1361@0.23.2560.1361" timestamp="1596758959031" />
     <state x="973" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1596310715119">
@@ -298,17 +286,5 @@
     <state x="86" y="240" width="670" height="586" key="search.everywhere.popup/0.23.1680.971@0.23.1680.971" timestamp="1596577340699" />
     <state x="98" y="274" width="670" height="676" key="search.everywhere.popup/0.23.1920.1121@0.23.1920.1121" timestamp="1596114633123" />
     <state x="131" y="328" width="894" height="821" key="search.everywhere.popup/0.23.2560.1361@0.23.2560.1361" timestamp="1592527020055" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/Navigator.vue</url>
-          <line>15</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

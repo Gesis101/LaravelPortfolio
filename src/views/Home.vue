@@ -8,25 +8,25 @@
       md4
       sm12
     >
-      <Navigator />
+      <about-me-component />
     </v-flex>
   </v-layout>
 </template>
 
 <script>
-  export default {
-    metaInfo () {
-      return {
-        title: 'Creative'
-      }
+export default {
+    metaInfo() {
+        return {
+            title: "Creative"
+        };
     },
-  components: {
-        Navigator: () => import('@/components/Navigator.vue')
-      },
-   data() {
+    components: {
+        AboutMeComponent: () => import("@/components/AboutMeComponent.vue")
+    },
+    data() {
         return {
             navs: 1
-        }
-   }
-  }
+        };
+    }
+};
 </script>

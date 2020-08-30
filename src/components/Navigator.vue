@@ -1,10 +1,12 @@
 <template>
   <div>
-    <v-flex
-      v-for="category in categories"
-      :key="category.id"
+    <v-card
+   
     >
-      <v-card>
+      <v-card
+        v-for="category in categories"
+        :key="category.id"
+      >
         <router-link
           to="/"
         >
@@ -13,16 +15,13 @@
           />
         </router-link>
       </v-card>
-    </v-flex>
+    </v-card>
   </div>
 </template>
 <script>
-var n
 export default {
     name: 'HelloWorld',
-
     data: () => ({
-         navs: 0,
         categories: [
             {
                 "id": 0,
@@ -32,7 +31,7 @@ export default {
             {
                 "id": 1,
                 "text": "Development",
-                "image":  require("../../public/static/project5.png")
+                "image": require("../../public/static/project5.png")
             },
             {
                 "id": 2,
@@ -40,6 +39,6 @@ export default {
                 "image": require("../../public/static/project5.png")
             }
         ]
-        })
+    }),
 }
 </script>
